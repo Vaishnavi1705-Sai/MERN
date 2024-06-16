@@ -1,0 +1,19 @@
+.sec{
+    height:200px;
+    width:200px;
+    border:1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+#sty{
+    background-color: rgb(121, 188, 215);
+    color: blue;
+    font-weight: 700px;
+}
+#hem{
+    height:70px;
+    width:380px;
+    border: 1px solid rgba(0, 0, 0, 0.311);
+    display: flex;
+}
